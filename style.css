@@ -1,0 +1,32 @@
+
+
+
+div.navbar, .header{
+	background-color: green;
+	color: black;
+}
+
+div.sub{
+	background-color: black;
+	color: white;
+}
+.assignments_navbar button{
+	color: white;
+	background-color: green;
+	border-style: none;
+}
+
+.assignments_navbar button:hover, .header{
+	background-color: rgb(11, 102, 35);
+}
+
+.collapsible_assignments{
+	background-color: black;
+	color:white;
+	padding:25px;
+}
+
+
+.home_page .content{
+	margin:2%;
+}
